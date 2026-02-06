@@ -14,6 +14,8 @@ import { buildRouter } from './routes/index.js';
 export function buildApp({ env, redis }) {
   const app = express();
 
+  app.set("trust proxy", 1);
+
   configurePassport({ env });
   app.use(passport.initialize());
 
