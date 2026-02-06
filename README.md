@@ -9,9 +9,9 @@ The API is hosted live on Render at the following URL:
 **Base URL:** `https://farmlokal-backend.onrender.com`  *(Note: Update this with your actual Render link)*
 
 ### Quick Start with Live API:
-- **Server Status**: `https://farmlokal-backend.onrender.com/`
-- **List All Products**: `https://farmlokal-backend.onrender.com/v1/products`
-- **Health Check**: `https://farmlokal-backend.onrender.com/readyz`
+- **Server Status**: `https://farmlokal-kr8g.onrender.com`
+- **List All Products**: `https://farmlokal-kr8g.onrender.com/v1/products`
+- **Health Check**: `https://farmlokal-kr8g.onrender.com/healthz`
 
 ---
 
